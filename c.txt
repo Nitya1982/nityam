@@ -1,0 +1,3 @@
+### WELCOME TO A.TXT FILE ######
+c.txt
+Entry for c.txt
